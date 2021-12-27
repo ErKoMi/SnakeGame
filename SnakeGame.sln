@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Змейка", "Змейка\Змейка.csproj", "{09CE0D9C-BBC5-45A3-A098-C0D6D6642547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CE0D9C-BBC5-45A3-A098-C0D6D6642547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CE0D9C-BBC5-45A3-A098-C0D6D6642547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CE0D9C-BBC5-45A3-A098-C0D6D6642547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CE0D9C-BBC5-45A3-A098-C0D6D6642547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CED8194A-AAEA-43D1-BA17-E6231937D4E8}
+	EndGlobalSection
+EndGlobal
